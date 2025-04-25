@@ -1,18 +1,18 @@
-/* docs/fonts/stylesheet.css */
+/* docs/fonts.css */
 
 /* Montserrat Thin - 100 */
 @font-face {
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 100;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Thin.ttf') format('truetype');
+  src: url('Montserrat-Thin.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 100;
-  src: url('https://ounezz.github.io/fonts/Montserrat-ThinItalic.ttf') format('truetype');
+  src: url('Montserrat-ThinItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -21,14 +21,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 200;
-  src: url('https://ounezz.github.io/fonts/Montserrat-ExtraLight.ttf') format('truetype');
+  src: url('Montserrat-ExtraLight.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 200;
-  src: url('https://ounezz.github.io/fonts/Montserrat-ExtraLightItalic.ttf') format('truetype');
+  src: url('Montserrat-ExtraLightItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -37,14 +37,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 300;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Light.ttf') format('truetype');
+  src: url('Montserrat-Light.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 300;
-  src: url('https://ounezz.github.io/fonts/Montserrat-LightItalic.ttf') format('truetype');
+  src: url('Montserrat-LightItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -53,14 +53,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 400;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Regular.ttf') format('truetype');
+  src: url('Montserrat-Regular.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 400;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Italic.ttf') format('truetype');
+  src: url('Montserrat-Italic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -69,14 +69,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 500;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Medium.ttf') format('truetype');
+  src: url('Montserrat-Medium.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 500;
-  src: url('https://ounezz.github.io/fonts/Montserrat-MediumItalic.ttf') format('truetype');
+  src: url('Montserrat-MediumItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -85,14 +85,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 600;
-  src: url('https://ounezz.github.io/fonts/Montserrat-SemiBold.ttf') format('truetype');
+  src: url('Montserrat-SemiBold.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 600;
-  src: url('https://ounezz.github.io/fonts/Montserrat-SemiBoldItalic.ttf') format('truetype');
+  src: url('Montserrat-SemiBoldItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -101,14 +101,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 700;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Bold.ttf') format('truetype');
+  src: url('Montserrat-Bold.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 700;
-  src: url('https://ounezz.github.io/fonts/Montserrat-BoldItalic.ttf') format('truetype');
+  src: url('Montserrat-BoldItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -117,14 +117,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 800;
-  src: url('https://ounezz.github.io/fonts/Montserrat-ExtraBold.ttf') format('truetype');
+  src: url('Montserrat-ExtraBold.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 800;
-  src: url('https://ounezz.github.io/fonts/Montserrat-ExtraBoldItalic.ttf') format('truetype');
+  src: url('Montserrat-ExtraBoldItalic.ttf') format('truetype');
   font-display: swap;
 }
 
@@ -133,14 +133,14 @@
   font-family: 'Montserrat';
   font-style: normal;
   font-weight: 900;
-  src: url('https://ounezz.github.io/fonts/Montserrat-Black.ttf') format('truetype');
+  src: url('Montserrat-Black.ttf') format('truetype');
   font-display: swap;
 }
 @font-face {
   font-family: 'Montserrat';
   font-style: italic;
   font-weight: 900;
-  src: url('https://ounezz.github.io/fonts/Montserrat-BlackItalic.ttf') format('truetype');
+  src: url('Montserrat-BlackItalic.ttf') format('truetype');
   font-display: swap;
 }
 
